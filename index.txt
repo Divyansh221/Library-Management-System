@@ -1,0 +1,12 @@
+romeo-julliet-1.txt
+PLAY
+Uncle-Tom-1.txt
+NOVEL
+Heretics-1.txt
+NOVEL
+moby-dick-1.txt
+NOVEL
+Hamlet-1.txt
+PLAY
+JuliusCaesar-1.txt
+PLAY
